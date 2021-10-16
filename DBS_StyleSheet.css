@@ -1,0 +1,86 @@
+body {
+    background-color: #e4771a;
+}
+
+a {
+    color:#a9a8ae;
+}
+
+#front-page-image {
+    margin: 1em;
+    border: solid;
+    border-radius: 5px;
+    border-width: 9px;
+}
+
+.navigation :hover{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ffdf00;
+    text-shadow: #f6f6f6 2px 2px;
+}
+
+.textShadow {
+    text-shadow: red 1px 1px;
+}
+
+h2 {
+    color: #f6f6f6;
+}
+
+p {
+    font-weight: 650;
+}
+
+li {
+    color: #ffdf00;
+    text-shadow: #e9011a 2px 2px;
+}
+
+#cardBorder img {
+    border: solid;
+    border-radius: 20px;
+    border-color:#e4771a;
+}
+
+#cardTable th {
+    font-weight: 750;
+    color: #ffdf00;
+    text-shadow: #e9011a 2px 2px;
+}
+
+#cardTable {
+    border-collapse: collapse;
+    text-align: left;
+}
+
+#cardTable td {
+    border: solid black 2px;
+    width: 250px;
+    font-weight: bold;
+}
+
+#cardTable td:nth-child(3) {
+    background-color: #ffdf00;
+}
+
+#ContactUsForm {
+    text-align: left;
+}
+
+#ContactUsForm label {
+    font-weight: bold;
+}
+
+#ContactUsForm input {
+    border: solid;
+    border-width: 1px;
+    margin-top: 3px;
+}
+
+h4 {
+    font-style: italic;
+}
+
+.indent {
+    margin-left: 1em;
+}
